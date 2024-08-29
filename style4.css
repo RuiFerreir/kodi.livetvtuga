@@ -3,7 +3,7 @@ body
 background:url('image/default_settings.jpg');
 background-size:100%;
 background-repeat:no-repeat;
-background-color:white;		
+background-color:beige;		
 }
 .titre
 {
@@ -44,12 +44,12 @@ text-align:left
 }
 .font_0 
 {
-color:white;
+color:Black;
 font-size:28px;
 text-align:left
 }
 .font_8
 {
-color:white;
+color:black;
 text-align:left
 }
